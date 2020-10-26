@@ -81,6 +81,26 @@ Finally click on "**Finish**" to complete the installation.
 
 4. **Launch the Spark AR Studio software.** Go to the home page of your Windows PC. Type (**Spark AR**) in the search bar located at the bottom left of your screen and near the white square made up of four other white squares representing your computer menu. You will see the Spark AR icon appear, click on it and wait a few seconds for the application to launch. After logging in with either your Facebook or Instagram account, a window will open at least similar, click on "Maybe Later" (new features are added to the software every two weeks, you might have a few things slightly different if you use another version). We recommend that you come back later and click on the “**Start Tour**” button which will show you already achieved effects and teach you how to build them.
 
-![alt text] (images/11.PNG)
+![alt text](images/11.PNG)
 
 > **Note:** If you still encounter some difficulties installing or launching Spark AR, do not hesitate to contact a friend who knows a minimum in new technologies, no need to contact a computer expert.
+
+### Introducing the Spark AR Studio interface.
+The Spark AR home screen shows you examples of already completed basic projects that are also tutorials. On the  left sidebar of your screen, a section titled "Learn" will take you to learning videos. For this tutorial, we will take the option "Create a Project" at the top left of the screen  which allows us to create a new base project, without using a predefined project.
+
+![alt text](images/17.PNG)
+
+Then click on “**Blank project**” to access the dashboard where we create our filter from zero.
+
+![alt text](images/12.PNG)
+
+This new interface contains several keys that we will not all be able to present explicitly here. Let's say in general that this filter creation interface is composed of 5 main areas namely:
+- **Zone 1**, located on the far left, has several action buttons such as the camera (which will allow you to choose predefined characters to preview your filter or activate your computer webcam to have a live preview), pause / play, refresh, search, test the filter on your smartphone, export, the library of Spark AR Studio, etc.
+- **Zone 2** represents the “**Scene**” which contains the various objects which will be used to add functionalities to your filter, such as to follow facial movements, etc. By default you will find a "**Device**" (your smartphone) made up of your camera and your microphone.
+- **Zone 3** contains the “**Assets**” like the 3D object, material, texture etc .
+- **Zone 4** represents your device with its screen where you have an overview of what is happening on a predefined character model, which you can modify.
+- **Zone 5** located on the far right, shows the properties of the objects that you have selected and that you can adjust to your liking. When you click on an object, you have these properties in this area.
+
+![alt text](images/13.png)
+
+> Now that we are done  with the getting started, we will start creating a  very simple filter for sports fans (FanMask).
