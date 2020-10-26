@@ -188,3 +188,26 @@ On this Spark AR Hub page, fill in the requested information: Name (FanMaskCmr),
 ![alt text](images/32.PNG)
 
 Take a short (2 minutes maximum) video of your filter in action with Instagram or with your smartphone that will show people what your filter does without having to download it. Once you are satisfied with the video, import it in the “ **video Demo** ” area then click “ **Save** ” in the upper right corner of the page.
+
+12. **Verify the information and submit your filter.** If you are ready to publish your filter once you have all submitted and verified the requested information, click the " **Submit** " button in the upper right corner of the page to submit your filter for Facebook review. The process can take days, and if your AR filter meets the different guidelines, it will appear for use.
+
+If you want to test our filter click here [FanMaskCmr](https://www.instagram.com/ar/2818115521758316/?ch=ZmRhZGJlMGYyZWI2NDRlOTc0MzFiZjA2MDkwMWEwMjc%3D).
+
+![alt text](images/35.jpg)
+
+## Conclusion
+Congratulations, You have created your first Instagram filter! We hope this tutorial has given you the basics of creating augmented reality filters and posting them on Instagram.
+## What’s next?
+If you want to continue working on this project, here are some ideas:
+- Add more flags of other countries and sports clubs in this project;
+- Create new effects using other features of Spark AR like Creating a glow effect with render passes.
+## Find out more about Spark AR.
+ Here are some recommendations to continue your learning and develop your skills on Spark AR:
+- https://sparkar.facebook.com/ar-studio/learn/tutorials/
+- https://later.com/blog/spark-ar-instagram/
+- https://www.tutorialspoint.com/spark_ar_studio_for_beginners_create_your_own_filters/index.asp
+- https://www.youtube.com/watch?v=Dbhy8C3aI_A
+- https://www.youtube.com/watch?v=pWj_oiFfNZM
+
+## About the Author
+**Sage Destin:** Hello dear reader! I am a biochemistry student at the University of Buea, Cameroon, passionate about technology, beginner on Spark AR and Junior front-end development.
