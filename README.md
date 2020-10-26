@@ -2,7 +2,7 @@
 
 > Now is the time to learn how to easily create your first augmented reality filter and share it on Instagram with Spark AR the best software for beginners to create awesome filters.
 
-! [alt text] (images /35.JPG)
+![alt text](images/35.jpg)
 
 While Instagramming, there's a good chance you've come into contact with an AR filter in some way and have probably had the urge to create your own Instagram filter. So we made this tutorial to teach you how to make Instagram filters. Know that it is very **easy** to create simple filters, to make them accessible to everyone on Instagram and **Anyone can do it** thanks to the software **Spark AR Studio**, which only works on computer.
 
