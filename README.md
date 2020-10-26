@@ -79,14 +79,14 @@ Finally click on "**Finish**" to complete the installation.
 
 > Now let's check that the installation was successful by launching the application.
 
-4. **Launch the Spark AR Studio software.** Go to the home page of your Windows PC. Type (**Spark AR**) in the search bar located at the bottom left of your screen and near the white square made up of four other white squares representing your computer menu. You will see the Spark AR icon appear, click on it and wait a few seconds for the application to launch. After logging in with either your Facebook or Instagram account, a window will open at least similar, click on "Maybe Later" (new features are added to the software every two weeks, you might have a few things slightly different if you use another version). We recommend that you come back later and click on the “**Start Tour**” button which will show you already achieved effects and teach you how to build them.
+4. **Launch the Spark AR Studio software.** Go to the home page of your Windows PC. Type (**Spark AR**) in the search bar located at the bottom left of your screen and near the white square made up of four other white squares representing your computer menu. You will see the Spark AR icon appear, click on it and wait a few seconds for the application to launch. After logging in with either your Facebook or Instagram account, a window will open at least similar, click on "**Maybe Later**" (new features are added to the software every two weeks, you might have a few things slightly different if you use another version). We recommend that you come back later and click on the “**Start Tour**” button which will show you already achieved effects and teach you how to build them.
 
 ![alt text](images/11.PNG)
 
 > **Note:** If you still encounter some difficulties installing or launching Spark AR, do not hesitate to contact a friend who knows a minimum in new technologies, no need to contact a computer expert.
 
 ### Introducing the Spark AR Studio interface.
-The Spark AR home screen shows you examples of already completed basic projects that are also tutorials. On the  left sidebar of your screen, a section titled "Learn" will take you to learning videos. For this tutorial, we will take the option "Create a Project" at the top left of the screen  which allows us to create a new base project, without using a predefined project.
+The Spark AR home screen shows you examples of already completed basic projects that are also tutorials. On the  left side bar of your screen, a section titled "**Learn**" will take you to learning videos. For this tutorial, we will take the option "**Create a Project**" at the top left of the screen  which allows us to create a new base project, without using a predefined project.
 
 ![alt text](images/17.PNG)
 
@@ -106,11 +106,11 @@ This new interface contains several keys that we will not all be able to present
 > Now that we are done  with the getting started, we will start creating a  very simple filter for sports fans (FanMask).
 
 ## Creating a filter for sports fan (FanMask)
-1. **Create a "Facetracker".** The "Facetracker" allows you to find and follow the movements of a face, to create it go to the "Scene" tab, right click on "**Focal Distance**", put your cursor on "**Add**" and in the list that will be offered to you choose "**Face Tracker**", this should create a new entry in your scene as shown below. The "faceTracker" element must be at the same level as the two "ambientLight" and "directionalLight" elements. If not, you've missed something, start over.
+1. **Create a "Facetracker".** The "**Facetracker**" allows you to find and follow the movements of a face, to create it go to the "**Scene**" tab, right click on "**Focal Distance**", put your cursor on "**Add**" and in the list choose "**Face Tracker**", this should create a new entry in your scene as shown below. The "faceTracker" element must be at the same level as the two "ambientLight" and "directionalLight" elements. If not, you've missed something, start over.
 
 ![alt text](images/14.png)
 
-> You can access the camera icon in zone 1 to change the character or use your computer's camera by clicking on the “PC Camera” button.
+> You can access the camera icon in zone 1 to change the character or use your computer's camera by clicking on the “**PC Camera**” button.
 
 2. **Add a "Face Mesh"** intended to respond to facial expressions and to place a material. Right click on the object "**Face Mesh**", put your cursor on "**Add**" and click on item "**Face Mesh**" in the list.
 
@@ -118,11 +118,11 @@ This new interface contains several keys that we will not all be able to present
 
 > In "Scene", you now have a "Face Tracker" which has a "Face Mesh".
 
-3. **Add a material in the properties of the “Face Mesh”.** Click on “Face Mesh” to display its properties in the area 5. Click on “ **+** ” at right of “ **Materials** ” located in zone 5.
+3. **Add a material in the properties of the “Face Mesh”.** Click on “**Face Mesh**” to display its properties in the area 5. Click on “ **+** ” at right of “ **Materials** ” located in zone 5.
 
  ![alt text](images/16.png)
 
-Your material will be listed in area 3 as " **Material0** " which you can rename to help you stay organized as you build your project. For this tutorial we will rename our material0 to “ **facemap** ”. To do this, right click on " **Material0** ", select " **Rename** " and rename the " **Material0** " to " **Facemap** ".
+Your material will be listed in area 3 as " **Material0** " which you can rename to help you stay organized as you build your project. For this tutorial we will rename our material0 to “**facemap**”. To do this, right click on "**Material0**", select "**Rename**" and rename the "**Material0**" to "**Facemap**".
 
 ![alt text](images/19.PNG)
 
@@ -130,17 +130,17 @@ You will get this result in zone 4
 
 ![alt text](images/20.PNG)
 
-4. **Download your asset** which can be within the framework of this tutorial the flag of a country, a team or a club of football, basketball etc. that you will save on your desktop under the name " **Flag** ". For this tutorial we will be using an image of the flag of Cameroon which you can find at the following address [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
+4. **Download your asset** which can be within the framework of this tutorial the flag of a country, a team or a club of football, basketball etc. that you will save on your desktop under the name "**Flag**". For this tutorial we will be using an image of the flag of Cameroon which you can find at the following address [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
 
-5. **Import your asset “Flag” to your assets.**  To do this, click on the “ **Add Asset** ” button in area 3, then click on “ **Import From Computer** ”. In the window that will open, go to your desktop, click on your active image "flag" then on "open". An easy way to import your asset to your assets is to drag and drop your “flag” image asset into the assets board.
+5. **Import your asset “Flag” to your assets.**  To do this, click on the “**Add Asset**” button in area 3, then click on “**Import From Computer**”. In the window that will open, go to your desktop, click on your active image "flag" then on "**open**". An easy way to import your flag to your assets is to drag and drop your flag image asset into the assets board.
 
 ![alt text](images/21.PNG)
 
-To avoid losing the quality of your image, check the “No Compression” box in area 5.
+To avoid losing the quality of your image, check the “**No Compression**” box in area 5.
 
 ![alt text] (images/22.PNG)
 
-6. **Add a texture to your “facemap” material.** click on the “ **Facemap** ” material, click on the “ **Texture** ” property in area 5 and choose the “flag” asset in the proposed list.
+6. **Add a texture to your “facemap” material.** click on the “**Facemap**” material, click on the “**Texture**” property in area 5 and choose the “**flag**” asset in the proposed list.
 
 ![alt text](images/23.PNG)
 
@@ -148,7 +148,7 @@ Adjust the Opacity and Brightness at your preference  and clic on Double-sided b
 
 ![alt text](images/25.PNG)
 
-7. **Change the “Shader Type” of your material to “Face Paint”.** In area 5, click on “ **Shader Type** ” and select “ **Face Paint** ” from the list offered.
+7. **Change the “Shader Type” of your material to “Face Paint”.** In area 5, click on “**Shader Type**” and select “**Face Paint**” from the list offered.
 
 ![alt text](images/34.PNG)
 
@@ -156,24 +156,24 @@ You will get this result in area 4.
 
 ![alt text](images/24.PNG)
 
-> **Note:** Usually when you use a filter on social networks you have smooth skin. To achieve this, add a new "Face Mesh" according to the method seen in point 3. Put a new material on your new "Face Mesh". Modify the "Shader Type" of your material in "Retouching" and finally smooth the skin of the face by adjusting **Skin Smoothing** up to 100.
+> **Note:** Usually when you use a filter on social networks you have smooth skin. To achieve this, add a new "**Face Mesh**" according to the method seen in point 3. Put a new material on your new "Face Mesh". Modify the "**Shader Type**" of your material in "**Retouching**" and finally smooth the skin of the face by adjusting **Skin Smoothing** up to 100.
 
-8. **Test your filter your filter to see how it shows up on other face types in real time.** On your smartphone, install the Spark AR Player app and then connect your smartphone to your computer using USB cable. In the lower left corner of zone 1, click on the smartphone icon then on " **Send** " in a new window. Your filter will automatically launch on your smartphone. On the other hand, if you have a webcam, click on the camera icon in area 1. You will see a " **PC Camera** " button above the faces for live interactive on your computer, or Change character to display your filter on different face type  and make any additional adjustments you want.
+8. **Test your filter your filter to see how it shows up on other face types in real time.** On your smartphone, install the **Spark AR Player** app and then connect your smartphone to your computer using USB cable. In the lower left corner of zone 1, click on the smartphone icon then on " **Send** " in a new window. Your filter will automatically launch on your smartphone. On the other hand, if you have a webcam, click on the camera icon in area 1. You will see a "**PC Camera**" button above the faces for live interactive on your computer, or Change character to display your filter on different face type  and make any additional adjustments you want.
 
 ![alt text](images/27.PNG)
 
 > Now that you have a working filter, let's see how to make it public on social media.
 
 ## Post your fanMask filter on Instagram
-9. **Save your project to a folder.** To save the project in a local folder, click on " **File** " (on the top left of your screen) and select the option " **Save As** ". A window will open, Choose a save location that you can easily find later and rename your project to  " **FanMask**  " before saving it.
+9. **Save your project to a folder.** To save the project in a local folder, click on "**File**" (on the top left of your screen) and select the option "**Save As**". A window will open, Choose a save location that you can easily find later and rename your project to  "**FanMask**" before saving it.
 
 ![alt text](images/26.PNG)
 
-10. **Upload your filter to Sparkhub.** click “ **File**” again and select this time the “ **Upload and Export** ” option.
+10. **Upload your filter to Sparkhub.** click “**File**” again and select this time the “**Upload and Export**” option.
 
 ![alt text](images/30.PNG)
 
-A window will open to indicate the space your filter will use on different types of devices. If everything is green and checked, click on the " **Upload** " button.
+A window will open to indicate the space your filter will use on different types of devices. If everything is green and checked, click on the "**Upload**" button.
 
 ![alt text](images/28.PNG)
 
@@ -183,20 +183,20 @@ A window will open to indicate the space your filter will use on different types
 
 ![alt text](images/31.PNG)
 
-On this Spark AR Hub page, fill in the requested information: Name (FanMaskCmr), Platform (Instagram), Properties (your Instagram account name), Categories (Events etc.). In the " **Effect Icon** " section, drag and drop an image you want to use to represent your Instagram filter. On the " **video Demo** " area, you will have two options: "**Record a video** " and " **Import a file** ". The " **Record Video** " option will give you a link that you can send to your friends, family or colleagues so they can test your Instagram filter.
+On this **Spark AR Hub** page, fill in the requested information: **Name** (FanMaskCmr), **Platform** (Instagram), **Properties** (your Instagram account name), **Categories** (Events etc.). In the " **Effect Icon** " section, drag and drop an image you want to use to represent your Instagram filter. On the " **video Demo** " area, you will have two options: "**Record a video** " and " **Import a file** ". The " **Record Video** " option will give you a link that you can send to your friends, family or colleagues so they can test your Instagram filter.
 
 ![alt text](images/32.PNG)
 
-Take a short (2 minutes maximum) video of your filter in action with Instagram or with your smartphone that will show people what your filter does without having to download it. Once you are satisfied with the video, import it in the “ **video Demo** ” area then click “ **Save** ” in the upper right corner of the page.
+Take a short (2 minutes maximum) video of your filter in action on Instagram or with your smartphone that will show people what your filter does without having to download it. Once you are satisfied with the video, import it in the “ **video Demo** ” area then click “ **Save** ” in the upper right corner of the page.
 
-12. **Verify the information and submit your filter.** If you are ready to publish your filter once you have all submitted and verified the requested information, click the " **Submit** " button in the upper right corner of the page to submit your filter for Facebook review. The process can take days, and if your AR filter meets the different guidelines, it will appear for use.
+12. **Verify the information and submit your filter.** If you are ready to publish your filter once you have all submitted and verified the requested information, click the "**Submit**" button in the upper right corner of the page to submit your filter for review. The process can take days, and if your AR filter meets the different guidelines, it will appear for use.
 
 If you want to test our filter click here [FanMaskCmr](https://www.instagram.com/ar/2818115521758316/?ch=ZmRhZGJlMGYyZWI2NDRlOTc0MzFiZjA2MDkwMWEwMjc%3D).
 
 ![alt text](images/35.jpg)
 
 ## Conclusion
-Congratulations, You have created your first Instagram filter! We hope this tutorial has given you the basics of creating augmented reality filters and posting them on Instagram.
+Congratulations, you have successfully created  and published your first Instagram filter! We hope this tutorial has given you the basics of creating augmented reality filters and posting them on Instagram.
 ## What’s next?
 If you want to continue working on this project, here are some ideas:
 - Add more flags of other countries and sports clubs in this project;
@@ -210,4 +210,4 @@ If you want to continue working on this project, here are some ideas:
 - https://www.youtube.com/watch?v=pWj_oiFfNZM
 
 ## About the Author
-**Sage Destin:** Hello dear reader! I am a biochemistry student at the University of Buea, Cameroon, passionate about technology, beginner on Spark AR and Junior front-end development.
+**Sage Destin:** Hello dear reader! I am a Biochemistry student at the University of Buea, Cameroon, passionate about technology, beginner on Spark AR and Junior front-end development.
