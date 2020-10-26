@@ -71,7 +71,7 @@ Then click again on the red button " **download** " on the left of your screen.
 
 - Once you get to the penultimate page, all you have to do is click on " **Install** "
 
-![alt text] (images/9.PNG)
+![alt text](images/9.PNG)
 
 Finally click on "**Finish**" to complete the installation.
 
