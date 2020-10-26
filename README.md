@@ -147,3 +147,17 @@ To avoid losing the quality of your image, check the “No Compression” box in
 Adjust the Opacity and Brightness at your preference  and clic on Double-sided box to display both sides of a normal face.
 
 ![alt text](images/25.PNG)
+
+7. **Change the “Shader Type” of your material to “Face Paint”.** In area 5, click on “ **Shader Type** ” and select “ **Face Paint** ” from the list offered.
+
+![alt text](images/34.PNG)
+
+You will get this result in area 4.
+
+![alt text](images/24.PNG)
+
+> **Note:** Usually when you use a filter on social networks you have smooth skin. To achieve this, add a new "Face Mesh" according to the method seen in point 3. Put a new material on your new "Face Mesh". Modify the "Shader Type" of your material in "Retouching" and finally smooth the skin of the face by adjusting **Skin Smoothing** up to 100.
+
+8. **Test your filter your filter to see how it shows up on other face types in real time.** On your smartphone, install the Spark AR Player app and then connect your smartphone to your computer using USB cable. In the lower left corner of zone 1, click on the smartphone icon then on " **Send** " in a new window. Your filter will automatically launch on your smartphone. On the other hand, if you have a webcam, click on the camera icon in area 1. You will see a "PC Camera" button above the faces for live interactive on your computer, or Change character to display your filter on different face type  and make any additional adjustments you want.
+
+![alt text](images/27.PNG)
