@@ -202,7 +202,7 @@ If you want to continue working on this project, here are some ideas:
 - Add more flags of other countries and sports clubs in this project;
 - Create new effects using other features of Spark AR like Creating a glow effect with render passes.
 ## Find out more about Spark AR.
- Here are some recommendations to continue your learning and develop your skills on Spark AR:
+ Here are some links where you can continue your learning and develop your skills on Spark AR:
 - https://sparkar.facebook.com/ar-studio/learn/tutorials/
 - https://later.com/blog/spark-ar-instagram/
 - https://www.tutorialspoint.com/spark_ar_studio_for_beginners_create_your_own_filters/index.asp
