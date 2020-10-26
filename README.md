@@ -35,20 +35,46 @@ The purpose of this tutorial is to provide a general overview of Spark AR Studio
 
 1. **Download the Spark AR Studio software** by going to the official website at the following address: https://sparkar.facebook.com/ar-studio/download/. Click on "**download**" at the top right of the page that will appear on your screen
 
-! [] (images/2.PNG),
+![](images/2.PNG),
 
 Then click again on the red button "**download**" on the left of your screen.
 
-! [] (images/3.PNG)
+![](images/3.PNG)
 
 > You can also go to google, search for Spark AR studio and choose the first result to go to the download site.
 
-2. ** Install Spark AR Player ** which is available on the Google Play Store for Android devices and on the Apple App Store for iPhones. You will also find this app in the middle of the page https://sparkar.facebook.com/ar-studio/download/. From your smartphone, you will have to click on one of the two download buttons (one for iOS and another for Android) located under "** Get the Spark AR Player **", because from your computer, nothing will happen. .
+2. **Install Spark AR Player** which is available on the Google Play Store for Android devices and on the Apple App Store for iPhones. You will also find this app in the middle of the page https://sparkar.facebook.com/ar-studio/download/. From your smartphone, you will have to click on one of the two download buttons (one for iOS and another for Android) located under "** Get the Spark AR Player **", because from your computer, nothing will happen. .
 
-! [] (images/33.PNG)
+![](images/33.PNG)
 
-3. ** Install the Spark AR software. ** If you don't know how, follow these instructions, it's a snap (we are using version 99 of 10/20/2020 for Windows in this tutorial) .
+3. **Install the Spark AR.** If you don't know how, follow these instructions, it's a snap (we are using version 99 of 10/20/2020 for Windows in this tutorial) .
 
 - Double click on the downloaded file icon. On the interface presented to you, click on the button "** Run **"
 
-! [alt] (images/4.PNG)
+![alt](images/4.PNG)
+
+- Then click on the button "**Next"
+
+![alt text](images/5.PNG)
+
+- Accept the terms of the license agreement and click on "**Next"
+
+![alt text](images/6.PNG)
+
+- In the new window, click again on "**Next"
+
+ ![alt text](images/7.PNG)
+
+- Choose the local disk on which you want to install Spark AR, we advise you to leave the default values and simply click on "**Next"
+
+![alt text](images/8.PNG)
+
+- Once you get to the penultimate page, all you have to do is click on "**Install**"
+
+![alt text] (images/9.PNG)
+
+Finally click on "**Finish**" to complete the installation.
+
+! [alt text](images/10.PNG)
+
+> Now let's check that the installation was successful by launching the application.
