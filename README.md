@@ -49,23 +49,23 @@ Then click again on the red button "**download**" on the left of your screen.
 
 3. **Install the Spark AR.** If you don't know how, follow these instructions, it's a snap (we are using version 99 of 10/20/2020 for Windows in this tutorial) .
 
-- Double click on the downloaded file icon. On the interface presented to you, click on the button "** Run **"
+- Double click on the downloaded file icon. On the interface presented to you, click on the button "**Run**"
 
 ![alt](images/4.PNG)
 
-- Then click on the button "**Next"
+- Then click on the button "**Next**"
 
 ![alt text](images/5.PNG)
 
-- Accept the terms of the license agreement and click on "**Next"
+- Accept the terms in the license agreement and click on "**Next**"
 
 ![alt text](images/6.PNG)
 
-- In the new window, click again on "**Next"
+- In the new window, click again on "**Next**"
 
  ![alt text](images/7.PNG)
 
-- Choose the local disk on which you want to install Spark AR, we advise you to leave the default values and simply click on "**Next"
+- Choose the local disk on which you want to install Spark AR, we advise you to leave the default values and simply click on "**Next**"
 
 ![alt text](images/8.PNG)
 
@@ -75,6 +75,6 @@ Then click again on the red button "**download**" on the left of your screen.
 
 Finally click on "**Finish**" to complete the installation.
 
-! [alt text](images/10.PNG)
+![alt text](images/10.PNG)
 
 > Now let's check that the installation was successful by launching the application.
