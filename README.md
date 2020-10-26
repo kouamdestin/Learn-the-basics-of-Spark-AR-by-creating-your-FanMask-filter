@@ -140,7 +140,7 @@ To avoid losing the quality of your image, check the “No Compression” box in
 
 ![alt text] (images/22.PNG)
 
-6. **Add a texture to your “facemap” material.** click on the “facemap” material, click on the “ **Texture** ” property in area 5 and choose the “flag” asset in the proposed list.
+6. **Add a texture to your “facemap” material.** click on the “ **Facemap** ” material, click on the “ **Texture** ” property in area 5 and choose the “flag” asset in the proposed list.
 
 ![alt text](images/23.PNG)
 
@@ -158,6 +158,33 @@ You will get this result in area 4.
 
 > **Note:** Usually when you use a filter on social networks you have smooth skin. To achieve this, add a new "Face Mesh" according to the method seen in point 3. Put a new material on your new "Face Mesh". Modify the "Shader Type" of your material in "Retouching" and finally smooth the skin of the face by adjusting **Skin Smoothing** up to 100.
 
-8. **Test your filter your filter to see how it shows up on other face types in real time.** On your smartphone, install the Spark AR Player app and then connect your smartphone to your computer using USB cable. In the lower left corner of zone 1, click on the smartphone icon then on " **Send** " in a new window. Your filter will automatically launch on your smartphone. On the other hand, if you have a webcam, click on the camera icon in area 1. You will see a "PC Camera" button above the faces for live interactive on your computer, or Change character to display your filter on different face type  and make any additional adjustments you want.
+8. **Test your filter your filter to see how it shows up on other face types in real time.** On your smartphone, install the Spark AR Player app and then connect your smartphone to your computer using USB cable. In the lower left corner of zone 1, click on the smartphone icon then on " **Send** " in a new window. Your filter will automatically launch on your smartphone. On the other hand, if you have a webcam, click on the camera icon in area 1. You will see a " **PC Camera** " button above the faces for live interactive on your computer, or Change character to display your filter on different face type  and make any additional adjustments you want.
 
 ![alt text](images/27.PNG)
+
+> Now that you have a working filter, let's see how to make it public on social media.
+
+## Post your fanMask filter on Instagram
+9. **Save your project to a folder.** To save the project in a local folder, click on " **File** " (on the top left of your screen) and select the option " **Save As** ". A window will open, Choose a save location that you can easily find later and rename your project to  " **FanMask**  " before saving it.
+
+![alt text](images/26.PNG)
+
+10. **Upload your filter to Sparkhub.** click “ **File**” again and select this time the “ **Upload and Export** ” option.
+
+![alt text](images/30.PNG)
+
+A window will open to indicate the space your filter will use on different types of devices. If everything is green and checked, click on the " **Upload** " button.
+
+![alt text](images/28.PNG)
+
+11. **Fill in the requested information.** Once the download is complete, You will automatically be redirected to [Spark AR Hub](https://www.facebook.com/sparkarhub/) to submit your AR filter for approval. This platform also gives the possibility to manage and understand the performance of your AR effects on Facebook and Instagram.
+
+> Make sure you are logged into the Facebook/Instagram account where you want to post the effect.
+
+![alt text](images/31.PNG)
+
+On this Spark AR Hub page, fill in the requested information: Name (FanMaskCmr), Platform (Instagram), Properties (your Instagram account name), Categories (Events etc.). In the " **Effect Icon** " section, drag and drop an image you want to use to represent your Instagram filter. On the " **video Demo** " area, you will have two options: "**Record a video** " and " **Import a file** ". The " **Record Video** " option will give you a link that you can send to your friends, family or colleagues so they can test your Instagram filter.
+
+![alt text](images/32.PNG)
+
+Take a short (2 minutes maximum) video of your filter in action with Instagram or with your smartphone that will show people what your filter does without having to download it. Once you are satisfied with the video, import it in the “ **video Demo** ” area then click “ **Save** ” in the upper right corner of the page.
