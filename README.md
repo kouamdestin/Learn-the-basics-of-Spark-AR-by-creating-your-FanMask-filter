@@ -43,7 +43,7 @@ Then click again on the red button "**download**" on the left of your screen.
 
 > You can also go to google, search for Spark AR studio and choose the first result to go to the download site.
 
-2. **Install Spark AR Player** which is available on the Google Play Store for Android devices and on the Apple App Store for iPhones. You will also find this app in the middle of the page https://sparkar.facebook.com/ar-studio/download/. From your smartphone, you will have to click on one of the two download buttons (one for iOS and another for Android) located under "** Get the Spark AR Player **", because from your computer, nothing will happen. .
+2. **Install Spark AR Player** which is available on the Google Play Store for Android devices and on the Apple App Store for iPhones. You will also find this app in the middle of the page https://sparkar.facebook.com/ar-studio/download/. From your smartphone, you will have to click on one of the two download buttons (one for iOS and another for Android) located under "**Get the Spark AR Player**", because from your computer, nothing will happen.
 
 ![](images/33.PNG)
 
@@ -78,3 +78,9 @@ Finally click on "**Finish**" to complete the installation.
 ![alt text](images/10.PNG)
 
 > Now let's check that the installation was successful by launching the application.
+
+4. **Launch the Spark AR Studio software.** Go to the home page of your Windows PC. Type (**Spark AR**) in the search bar located at the bottom left of your screen and near the white square made up of four other white squares representing your computer menu. You will see the Spark AR icon appear, click on it and wait a few seconds for the application to launch. After logging in with either your Facebook or Instagram account, a window will open at least similar, click on "Maybe Later" (new features are added to the software every two weeks, you might have a few things slightly different if you use another version). We recommend that you come back later and click on the “**Start Tour**” button which will show you already achieved effects and teach you how to build them.
+
+![alt text] (images/11.PNG)
+
+> **Note:** If you still encounter some difficulties installing or launching Spark AR, do not hesitate to contact a friend who knows a minimum in new technologies, no need to contact a computer expert.
