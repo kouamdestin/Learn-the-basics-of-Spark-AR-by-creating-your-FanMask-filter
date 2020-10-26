@@ -104,3 +104,16 @@ This new interface contains several keys that we will not all be able to present
 ![alt text](images/13.png)
 
 > Now that we are done  with the getting started, we will start creating a  very simple filter for sports fans (FanMask).
+
+## Creating a filter for sports fan (FanMask)
+1. **Create a "Facetracker".** The "Facetracker" allows you to find and follow the movements of a face, to create it go to the "Scene" tab, right click on "**Focal Distance**", put your cursor on "**Add**" and in the list that will be offered to you choose "**Face Tracker**", this should create a new entry in your scene as shown below. The "faceTracker" element must be at the same level as the two "ambientLight" and "directionalLight" elements. If not, you've missed something, start over.
+
+![alt text](images/14.png)
+
+> You can access the camera icon in zone 1 to change the character or use your computer's camera by clicking on the “PC Camera” button.
+
+2. **Add a "Face Mesh"** intended to respond to facial expressions and to place a material. Right click on the object "**Face Mesh**", put your cursor on "**Add**" and click on item "**Face Mesh**" in the list.
+
+![alt text](images/15.png)
+
+> In "Scene", you now have a "Face Tracker" which has a "Face Mesh".
