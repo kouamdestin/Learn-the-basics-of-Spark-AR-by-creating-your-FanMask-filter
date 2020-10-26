@@ -117,3 +117,18 @@ This new interface contains several keys that we will not all be able to present
 ![alt text](images/15.png)
 
 > In "Scene", you now have a "Face Tracker" which has a "Face Mesh".
+
+3. **Add a material in the properties of the “Face Mesh”.** Click on “Face Mesh” to display its properties in the area 5. Click on “ **+** ” at right of “ **Materials** ” located in zone 5.
+
+ ![alt text](images/16.png)
+
+Your material will be listed in area 3 as " **Material0** " which you can rename to help you stay organized as you build your project. For this tutorial we will rename our material0 to “ **facemap** ”. To do this, right click on " **Material0** ", select " **Rename** " and rename the " **Material0** " to " **Facemap** ".
+
+![alt text](images/19.PNG)
+
+You will get this result in zone 4
+
+![alt text](images/20.PNG)
+
+4. ** Download your asset ** which can be within the framework of this tutorial the flag of a country, a team or a club of football, basketball etc. that you will save on your desktop under the name of " **Flag** ". For this tutorial we will be using an image of the flag of Cameroon which you can find at the following address [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
+
