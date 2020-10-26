@@ -130,5 +130,20 @@ You will get this result in zone 4
 
 ![alt text](images/20.PNG)
 
-4. ** Download your asset ** which can be within the framework of this tutorial the flag of a country, a team or a club of football, basketball etc. that you will save on your desktop under the name of " **Flag** ". For this tutorial we will be using an image of the flag of Cameroon which you can find at the following address [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
+4. **Download your asset** which can be within the framework of this tutorial the flag of a country, a team or a club of football, basketball etc. that you will save on your desktop under the name " **Flag** ". For this tutorial we will be using an image of the flag of Cameroon which you can find at the following address [Cameroonflag](https://www.google.com/search?q=cameroon+flag&client=opera&hs=4Uu&sxsrf=ALeKk02xAh27xfqPHwocL0DNqDtiTsFQw:1603595077924&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjrp6X4c7sAhUjAGMBHZ6hBwsQ_AUoAXoECBMQAw&biw=1560&bih=790#imgrc=IrRjV-_DofwO3M&imgdii=T0-0EblHzjONKM ) . 
 
+5. **Import your asset “Flag” to your assets.**  To do this, click on the “ **Add Asset** ” button in area 3, then click on “ **Import From Computer** ”. In the window that will open, go to your desktop, click on your active image "flag" then on "open". An easy way to import your asset to your assets is to drag and drop your “flag” image asset into the assets board.
+
+![alt text](images/21.PNG)
+
+To avoid losing the quality of your image, check the “No Compression” box in area 5.
+
+![alt text] (images/22.PNG)
+
+6. **Add a texture to your “facemap” material.** click on the “facemap” material, click on the “ **Texture** ” property in area 5 and choose the “flag” asset in the proposed list.
+
+![alt text](images/23.PNG)
+
+Adjust the Opacity and Brightness at your preference  and clic on Double-sided box to display both sides of a normal face.
+
+![alt text](images/25.PNG)
